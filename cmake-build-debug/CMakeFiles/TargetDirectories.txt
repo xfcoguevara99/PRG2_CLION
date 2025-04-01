@@ -1,0 +1,3 @@
+/home/aluno/Downloads/PRG2_CLION/cmake-build-debug/CMakeFiles/PRG2_CLION.dir
+/home/aluno/Downloads/PRG2_CLION/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aluno/Downloads/PRG2_CLION/cmake-build-debug/CMakeFiles/rebuild_cache.dir
