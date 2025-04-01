@@ -2,12 +2,11 @@
 #include "./ArquivosExtra/desafio1_leitura.c"
 #include "./ArquivosExtra/problema2.c"
 #include "./ArquivosExtra/problema3.c"
+#include "./ArquivosExtra/problema9.c"
 int main() {
-    int *ponteiro,numero;
-    numero = 10;
-    printf("%d\n",numero);
-    ponteiro = &numero;
-    problema3(ponteiro);
-    printf("%d\n",*ponteiro);
+    char nome[50];
+    printf("Digite o nome do arquivo:\n");
+    scanf("%s",&nome);
+    escrevendo_arquivo();
     return 0;
 }
